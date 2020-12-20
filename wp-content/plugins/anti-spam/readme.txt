@@ -2,7 +2,7 @@
 Contributors: creativemotion
 Tags: antispam, firewall, malware scanner, security, antivirus, firewall, malware, scan, spam
 Requires at least: 4.9
-Tested up to: 5.5
+Tested up to: 5.6
 Requires PHP: 5.6
 Stable tag: trunk
 License: GPLv3
@@ -15,6 +15,21 @@ Titan includes anti-spam, firewall, malware scanner, site accessibility checking
 
 Titan is a comprehensive WordPress security solution, completed by a set of additional features as add-ons, which was placed into a simple and intuitive interface.
 
+**Why did we update Anti-Spam and what is Titan?**
+
+Let me tell you before we start: your favorite Anti-Spam had not disappeared! Instead of that it revived and became stronger to stand guard over the secure of your site!
+The latest update of Anti-Spam is called Titan Anti-spam & Security and represents the brand new version of a plugin.
+
+**Why TITAN?**
+
+We aim to create a plugin as reliable as this metal - and easy-to-use at the same time. The new name of our plugin sets the pace with newest and highest standards of quality.
+
+What has been changed except the name?
+Whilst the process of modernization we had to take some complicated decisions. One of them was:
+What should we do: keep Anti-Spam like a simple plugin with the only one function or complicate it with a huge complex of tools made for the security of your site?
+Constant feedback from users and versatile development experience lets us claim that the situation when there is too many tools couldn’t exist!
+We considered all possibilities thoroughly to secure the best future for the plugin.
+Let me introduce new secure functionality that was developed with spending a lot of time, effort and consideration:
 
 ## Features ##
 
@@ -64,19 +79,6 @@ Your browser will receive push notifications if one of the URLS is unavailable.
 * Strong Password Requirement
 * Hide author login
 * Hide WordPress versions. WordPress itself and many plugins show their version at the visible areas of your site. An attacker who received this information may be aware of the vulnerabilities found in the version of the WordPress core or plugins.
-
-== Two-factor authentication ==
-* Displays graphical QR codes for easy scanning into apps on your phone/tablet
-* TFA can be turned on or off by each user
-[learn more](https://titansitescanner.com/).
-
-== What’s Next ==
-
-If you like this plugin, then consider checking out our other projects:
-[Clearfy](https://clearfy.pro/) - WordPress optimization plugin and disable ultimate tweaker
-[Robin image optimizer](https://robinoptimizer.com/) - Make your WordPress site blazingly fast and rank higher in search engines.
-[Woody ad snippets](https://woodysnippet.com/) - Save up to 70 hours of routine work on your WordPress website monthly!
-[Social Slider Widget](https://cm-wp.com/instagram-slider-widget/) - Display Instagram feeds in widgets, posts, pages, or anywhere else using shortcodes
 
 == Screenshots ==
 1. Dashboard
@@ -173,6 +175,11 @@ You may check out the [source code of the plugin](http://plugins.trac.wordpress.
 The plugin is pretty small and easy to read.
 
 == Changelog ==
+= 7.2.1 =
+* Added: Subscribe form
+* Improved: Compatibility with Wordpress 5.6
+* Fixed: Minor bugs
+
 = 7.1.6 =
 * Added: Setup wizard
 * Improved: Compatibility with Wordpress 5.5
